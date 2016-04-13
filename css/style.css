@@ -68,6 +68,9 @@ body {}
 	#navi_list .navi_7 i { background:#303f9f; }
 
 #footer_copy { background:#424242; color:#fff; padding:10px 0; }
+#footer_button { background:#333; padding:2em; color:#fff; }
+#footer_button ul li { display:inline; }
+#footer_button img { margin-top:5px; }
 
 /* off-canvas
 ------------------------------------------------------------*/
